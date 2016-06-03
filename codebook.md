@@ -2,8 +2,8 @@ This codebook is to describe the variables listed in the tidydata.txt
 
 ###Identifiers
 
-subject - The names of test subject
-activity - The corresponding activity when certain measurements were taken
+subject - The names/codes of volunteers
+activity - The names/codes of activity types
 
 ### Activity Labels
 
